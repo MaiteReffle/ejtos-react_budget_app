@@ -28,6 +28,30 @@
   color: #61dafb;
 }
 
+.button_green {
+    padding-bottom: 10px;
+    background-color: rgb(52, 160, 48);
+    border-radius: 50%;
+    text-align: center;
+    color: white;
+    width: 25px;
+    height: 25px;
+    border: none;
+    font-size: small;
+}
+
+.button_red {
+    padding-bottom: 10px;
+    background-color: rgb(210, 56, 56);
+    border-radius: 50%;
+    color: white;
+    width: 25px;
+    height: 25px;
+    border: none;
+    font-size: small;
+}
+
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
